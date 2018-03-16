@@ -1,7 +1,7 @@
 # Hostel-Database-System
 SQL based database management project
-Description:-
-Our project is based on HOSTEL MANAGEMENT!!
+<h2>Description:-</h2>
+This project is based on HOSTEL MANAGEMENT!!
 Hostel management system is the database system to maintain the records related to hostel, it’s information, it’s management, staff and students living in it so that anyone can enquire or access the information about everything related to the hostel. Our model consists of information of following Entity sets:-
 
 <h2>1.HOSTEL :- </h2>it has attributes:-
